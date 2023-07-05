@@ -14,7 +14,7 @@ namespace Disconnected_Environment
     public partial class Form2 : Form
     {
 
-        private string stringConnection = 
+        private string stringConnection = "Data Source=LAPTOP-M7MD7ENC\\ARFAN_MAULANA;Initial Catalog=BLOB;Integrated Security=True;MultipleActiveResultSets=True";
         private SqlConnection koneksi;
 
         private void refreshform()
